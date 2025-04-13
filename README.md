@@ -1,5 +1,7 @@
 # Frontend Mentor - Soluções dos Desafios
 
+![](./img/logo-frontend-mentor.png)
+
 Bem-vindo ao meu repositório central de soluções para os [desafios do Frontend Mentor](https://www.frontendmentor.io/)! Este projeto é uma jornada para **fixar e atualizar meus conhecimentos** em desenvolvimento frontend, enquanto ajudo **iniciantes** a aprenderem **HTML**, **CSS**, **JavaScript** e outras tecnologias de forma prática. Cada desafio tem seu próprio repositório com código, explicações e um **vídeo passo a passo no YouTube**, pensado para quem está começando.
 
 ## Por que este projeto?
@@ -16,7 +18,7 @@ Abaixo, você encontra os desafios concluídos, com links para os repositórios 
 
 | Desafio | Repositório | Vídeo no YouTube | Tecnologias |
 |---------|-------------|------------------|-------------|
-| [Huddle landing page][hundle-landin-page] | [Repositório]() | [Assistir]() | HTML, CSS |
+| [Huddle landing page][huddle-landing-page] | [Repositório]() | [Assistir]() | HTML, CSS |
 | ... | ... | ... | ... |
 
 ## Como Usar
@@ -62,4 +64,4 @@ Quer discutir os desafios, os vídeos ou colaborar? Entre em contato:
 **Happy coding!** 🚀
 
 
-[huddle-landi-page]:https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
+[huddle-landing-page]:https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0
